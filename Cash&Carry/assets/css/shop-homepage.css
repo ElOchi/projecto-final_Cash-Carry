@@ -1,0 +1,137 @@
+/*!
+ * Start Bootstrap - Shop Homepage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 0px;
+    /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #2F3233;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control, .item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+h3 {
+    font-size: 100px;
+    font-family: monospace;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.row {
+    background-color: #2F3233;
+}
+
+nav.navbar.navbar-default {
+    background-color: #02E2A3;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.navbar > .container .navbar-brand,
+.navbar > .container-fluid .navbar-brand {
+    margin-left: -5px;
+    text-align: center;
+}
+
+.caption {
+    overflow: scroll;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: -24px;
+    margin-left: -18px;
+}
+
+form.navbar-form.navbar-right {
+    float: right!important;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: monospace;
+    font-size-adjust: auto;
+    color: #FFD170;
+    float: left;
+    height: 50px;
+    padding: 3px 15px;
+    font-size: 31px;
+    line-height: 24px;
+}
+
+
+/*
+#bs-example-navbar-collapse-1 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+*/
+
+
+/*footer*/
+
+.footer {
+    padding: 40px 5%;
+    margin: 50px 0 0;
+    background-color: #02E2A3;
+}
+
+.footer li {
+    display: inline;
+    padding-left: 50px;
+}
+
+.footer ul {
+    text-align: center;
+}
